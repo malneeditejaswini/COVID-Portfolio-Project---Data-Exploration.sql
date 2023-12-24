@@ -1,6 +1,6 @@
 /*
 
-Queries used for Tableau Project
+SQL Queries used for COVID Portfolio Project
 
 */
 
